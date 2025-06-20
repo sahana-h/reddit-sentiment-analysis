@@ -1,4 +1,4 @@
-# 🔍 RetailRadar: Real-Time Reddit Sentiment Dashboard for Stocks
+# RetailRadar: Real-Time Reddit Sentiment Dashboard for Stocks
 
 RetailRadar is an interactive web dashboard that analyzes Reddit posts to uncover real-time sentiment trends around publicly traded stocks. By combining natural language processing (NLP) with financial market data, RetailRadar helps visualize how retail investor opinion fluctuates and whether it correlates with actual stock performance.
 
