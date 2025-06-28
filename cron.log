@@ -76,3 +76,549 @@ Traceback (most recent call last):
     with open(csv_filename, newline='') as csvfile:
          ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
 FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
+Loading FinBERT model...
+Model loaded.
+==================================================
+STARTING NEW UPDATE CYCLE...
+==================================================
+--- Starting Reddit Scraper ---
+Traceback (most recent call last):
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 33, in <module>
+    run_update_cycle()
+    ~~~~~~~~~~~~~~~~^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/main.py", line 16, in run_update_cycle
+    run_scraper(
+    ~~~~~~~~~~~^
+        subreddits=["stocks", "wallstreetbets", "investing"],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        limit_per_subreddit=200 # Scrape 200 of the newest posts from each
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 75, in run_scraper
+    valid_tickers, name_to_ticker_map = load_tickers_and_names_from_csv('nasdaq-listed-symbols.csv')
+                                        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sahanahariharan/Desktop/reddit-sentiment-analysis/reddit_scraper.py", line 24, in load_tickers_and_names_from_csv
+    with open(csv_filename, newline='') as csvfile:
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'nasdaq-listed-symbols.csv'
